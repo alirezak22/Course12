@@ -1,0 +1,16 @@
+﻿@font-face {
+    font-family: 'DANA-BOLD';
+    src: url('../font/ANYCONV.COM__DANA-BOLD.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'DANA-MEDIUM';
+    src: url('../font/ANYCONV.COM__DANA-MEDIUM.TTF') format('truetype');
+}
+* {
+    font-family: 'DANA-MEDIUM';
+    direction: rtl;
+    text-align: right;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'DANA-BOLD';
+}
